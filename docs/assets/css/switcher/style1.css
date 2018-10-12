@@ -1,0 +1,178 @@
+#style-switcher h2 a {
+    background: #333;
+}
+
+.section-title h2::after {
+    border-bottom: 3px double #333;
+}
+
+.carousel-indicators .active {
+    background-color: #333;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #333 none repeat scroll 0 0;
+}
+
+.header-top-info {
+    background: #333 none repeat scroll 0 0;
+}
+
+.button {
+    color: #333;
+    border: 2px solid #333;
+}
+
+.button:before {
+    background: #333 none repeat scroll 0 0;
+}
+
+.home-btn-bg {
+    background: #333;
+}
+
+.mainmenu ul.nav.navbar-nav li a:hover {
+    color: #333 !important
+}
+
+.is-sticky .mainmenu ul.nav.navbar-nav li.active a {
+    color: #333 !important
+}
+
+.is-sticky .navbar-brand {
+    color: #333 !important;
+}
+
+.skills-progress .progress-bar {
+    background: #333 none repeat scroll 0 0;
+}
+
+.about-text li i {
+    color: #333;
+}
+
+.single-service i {
+    color: #333;
+}
+
+a.read-more:hover i,
+a.read-more:hover {
+    color: #333;
+}
+
+.count-area:after {
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+}
+
+.single-choose i {
+    color: #000;
+}
+
+.single-choose:hover i {
+    background: #333;
+}
+
+.portfolio-filter ul li.active,
+.portfolio-filter ul li:hover {
+    border: 2px solid #333
+}
+
+.work-icon a:hover {
+    color: #333 !important;
+}
+
+.testimonial-area:after {
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+}
+
+.team-social-link a:hover {
+    color: #333 !important;
+}
+
+.single_pricing.recommended .price h4,
+.single_pricing:hover .price h4 {
+    color: #333
+}
+
+.single-product > a > i {
+    background: #333 none repeat scroll 0 0;
+}
+
+.blog-content span i {
+    color: #333;
+}
+
+.subscribe-area:after {
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+}
+
+.signup-btn-bg:hover {
+    color: #333 !important;
+}
+
+.form-control:hover,
+.form-control:focus {
+    border-color: -moz-use-text-color -moz-use-text-color #333;
+}
+
+.btn-contact-bg:hover,
+.btn-contact-bg:focus {
+    background: #333 none repeat scroll 0 0;
+}
+
+.single-contact-info i {
+    background: #333;
+}
+
+.single-latest-post span i {
+    color: #333;
+}
+
+.single-latest-post:hover a h2 {
+    color: #333;
+}
+
+.footer-widget ul li a i {
+    color: #333;
+}
+
+.footer-widget ul li a:hover {
+    color: #333;
+}
+
+.social-icon a i:hover {
+    color: #333;
+}
+
+.copyright {
+    background: #333;
+}
+
+.single-blog-info span i,
+.single-comment span i {
+    color: #333;
+}
+
+.search-box input:hover,
+.search-box input:focus {
+    border: 1px solid #333
+}
+
+.categories li a:hover {
+    color: #333;
+}
+
+.categories li a i {
+    color: #333;
+}
+
+.tags li a:hover {
+    background: #333 none repeat scroll 0 0;
+    border: 1px solid #333;
+}
+
+.details-single-project li a,
+.details-single-project li i {
+    color: #333;
+}

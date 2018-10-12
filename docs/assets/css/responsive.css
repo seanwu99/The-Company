@@ -1,0 +1,249 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .header-top-cart ul li a {
+        font-size: 10px
+    }
+
+    .shop-cart i {
+        font-size: 14px
+    }
+
+    .mainmenu li a {
+        padding: 30px 10px
+    }
+
+    .is-sticky .mainmenu li a {
+        padding: 20px 10px
+    }
+
+    #home-carousel .item h2 {
+        font-size: 46px
+    }
+
+    .section-title p {
+        width: 80%
+    }
+
+    .video-area iframe {
+        height: 410px;
+        margin-bottom: 40px;
+    }
+
+    .skills-area {
+        padding-bottom: 40px
+    }
+
+    .single-skill {
+        margin-bottom: 40px
+    }
+
+    .count-area {
+        padding-bottom: 50px
+    }
+
+    .counter {
+        margin-bottom: 30px
+    }
+
+    .team-area {
+        padding-bottom: 50px
+    }
+
+    .single-team {
+        margin-bottom: 30px
+    }
+
+    .pricing-area {
+        padding-bottom: 50px
+    }
+
+    .single-pricing {
+        margin-bottom: 30px
+    }
+
+    .single-blog {
+        margin-bottom: 30px
+    }
+
+    .single-project-img {
+        margin-bottom: 40px
+    }
+
+    .related-projects .single-work {
+        margin-bottom: 20px
+    }
+
+    .footer-top-area {
+        padding-bottom: 30px
+    }
+
+    .footer-widget {
+        margin-bottom: 50px
+    }
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+    .header-top-area {
+        background: #fff none repeat scroll 0 0
+    }
+
+    .navbar-default {
+        padding: 5px 0
+    }
+
+    .navbar-brand {
+        padding: 15px;
+        color: #333 !important;
+    }
+
+    .is-sticky .navbar-brand {
+        padding: 15px
+    }
+
+    .mainmenu li a,
+    .is-sticky .mainmenu ul.nav.navbar-nav li a {
+        color: #666 !important;
+        font-size: 12px;
+        padding: 15px;
+    }
+
+    #home-carousel .item p {
+        font-size: 14px;
+        letter-spacing: 5px;
+    }
+
+    #home-carousel .item h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    #home-carousel .item .button {
+        font-size: 10px;
+    }
+
+    .section-title h2 {
+        font-size: 26px
+    }
+
+    .section-title p {
+        width: 100%;
+        font-size: 13px;
+    }
+
+    .video-area iframe {
+        height: 195px;
+        margin-bottom: 30px;
+    }
+
+    .single-service {
+        padding: 30px 25px
+    }
+
+    .single-service i {
+        font-size: 45px
+    }
+
+    .single-service p {
+        margin-bottom: 15px
+    }
+
+    .skills-area {
+        padding-bottom: 50px
+    }
+
+    .single-skill {
+        margin-bottom: 30px
+    }
+
+    .work-title > h4 {
+        margin-top: 40px
+    }
+
+    .count-area {
+        padding-bottom: 60px
+    }
+
+    .counter {
+        margin-bottom: 20px
+    }
+
+    .team-area {
+        padding-bottom: 60px
+    }
+
+    .single-team {
+        margin-bottom: 20px
+    }
+
+    .pricing-area {
+        padding-bottom: 50px
+    }
+
+    .single-pricing {
+        margin-bottom: 30px
+    }
+
+    .single-blog {
+        margin-bottom: 20px
+    }
+
+    .single-product {
+        margin-top: 20px
+    }
+
+    .breadcrumb-main {
+        height: 250px
+    }
+
+    .breadcrumb-title {
+        padding-top: 125px
+    }
+
+    .breadcrumb-title h2 {
+        font-size: 28px
+    }
+
+    .single-project-img {
+        margin-bottom: 40px
+    }
+
+    .related-projects .single-work {
+        margin-bottom: 20px
+    }
+
+    .footer-top-area {
+        padding-bottom: 30px
+    }
+
+    .footer-widget {
+        margin-bottom: 50px
+    }
+
+    .copyright p {
+        font-size: 12px
+    }
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
